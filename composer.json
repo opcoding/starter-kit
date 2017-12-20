@@ -6,8 +6,7 @@
         "objective-php/application": "^1.1.0",
         "objective-php/router": "^1.0.0",
         "doctrine/annotations": "~1.4.0",
-        "objective-php/services-factory": "^1.2.0",
-        "twbs/bootstrap": "^3.3"
+        "objective-php/services-factory": "^1.2.0"
     },
     "require-dev": {
         "opcoding/starter-kit-tools": "dev-master"
